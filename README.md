@@ -1,6 +1,6 @@
 ## <span id="back">TD-SCDMA(Time Division-Synchronous Code Division Multiple Access)</span> ##
 
-### [*Index*](http://sheldonjie.github.io/)
+### [*<<Index*](http://sheldonjie.github.io/)
 ----------
 
 第三代移动通信系统TD-SCDMA,即时分双工、同步码分多址接入技术。
